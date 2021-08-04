@@ -1,3 +1,9 @@
+/*
+Just an example for the scoreboard with 4 players. 
+To use it, simply change 'numPlayers' to 4 in the XMC2Go code and upload, then upload this code to the MAX32620FTHR. 
+Then connect everything according to the connection diagram and test.
+*/
+
 #include <Wire.h>
 #include "rgb_lcd.h"
 

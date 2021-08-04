@@ -1,3 +1,8 @@
+/*
+To use this, just read the documentation, add your authentication code and upload to the MAX32620FTHR. 
+This will make the scoreboard for 4 players, but to make use of it, you need to create widgets and customize them as you need in the Blynk app yourself.
+*/
+
 #include <Wire.h>
 #include "rgb_lcd.h"
 #include <BlynkSimpleStream.h>

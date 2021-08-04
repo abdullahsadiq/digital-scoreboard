@@ -1,3 +1,8 @@
+/*
+This is the code for the MAX32620FTHR for 2 players. 
+To modify it for more players, first make the change in the XMC2Go code, and here make more variables to hold and parse the score. Then display it as needed.
+*/
+
 #include <Wire.h>
 #include "rgb_lcd.h"
 
